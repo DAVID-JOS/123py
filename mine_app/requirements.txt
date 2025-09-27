@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Core dependencies
+Flask==3.0.3        # lightweight web framework
+python-dotenv==1.0.1 # load environment variables
+requests==2.32.3    # for making HTTP requests
+
+# Optional (helpful for logging and configs)
+rich==13.7.1        # better console logs
